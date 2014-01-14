@@ -75,6 +75,10 @@ h1 {
   font-weight: bold;
 }
 
+h1.yes {
+  color: #3B8D21;
+}
+
 h2 {
   font-size: 22px;
   font-weight: bold;
